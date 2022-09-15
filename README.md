@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Mengxiang.Wang. 👋
+- 🌱 I’m a foolish student currently studying in Xidian University.
 <!--
 **Dreameta/Dreameta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
