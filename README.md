@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mackson.Wang. 👋
 - 🌱 I’m a foolish student currently studying in Xidian University.
-- 📫 How to reach me: mxwang.offical@gmail.com
+- 📫 How to reach me: macksonwang@outlook.com
 - 🔭 I’m currently learning UNIVERSE.
 
 
@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...            
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
